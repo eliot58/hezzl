@@ -1,0 +1,1 @@
+insert into goods (project_id, name, priority) values (1, 'name 1', 1) returning id, description, priority, removed, created_at
